@@ -1,2 +1,2 @@
-﻿# Repository erstellen mit CMD
+﻿# Repository erstellen mit git Befehle auf CMD
 
