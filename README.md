@@ -1,4 +1,4 @@
-﻿# Repository erstellen mit git Befehle auf CMD
+﻿# Repository erstellen mit git Befehle auf CMD oder GUI
 
 ## Lokales Repositry mit Github Repository verbinden
 
