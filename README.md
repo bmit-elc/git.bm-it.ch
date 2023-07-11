@@ -26,4 +26,4 @@
 	- GUI  (General User Interface)
 			- In VSC Source Code (Ctrl + Shift + G)
 			- Änderungen Stagen
-            		- Commit Nachricht schreiben und Branch in Github veröffentlichen
+            	- Commit Nachricht schreiben und Branch in Github veröffentlichen
