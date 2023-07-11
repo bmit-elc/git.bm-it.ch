@@ -11,7 +11,7 @@
 
 ###  Änderungen Stagen, commiten und Branch in Github veröffentlichen 
 
-		- Termina*:  
+	- Terminal:  
 
 		git add ./filename 
 		git commit -m "ein sinnvolles Nachricht zur Änderungen"
@@ -23,7 +23,7 @@
 			git push -u origin master
 
 	
-		- GUI  (General User Interface)
+	- GUI  (General User Interface)
 			- In VSC Source Code (Ctrl + Shift + G)
 			- Änderungen Stagen
             - Commit Nachricht schreiben  und Branch in Github veröffentlichen
